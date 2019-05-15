@@ -1,6 +1,6 @@
 ---
 title: Brexit policies of UK political parties
-layout: page
+layout: post
 ---
 
 # Brexit policies of UK political parties
