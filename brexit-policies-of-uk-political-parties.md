@@ -97,6 +97,3 @@ From [EU Election 2019 campaign page](https://www.snp.org/campaigns/eu-election-
 > The people of Scotland have been ignored, the Scottish Parliament has been ignored. And, most important of all, the future prosperity of the next generation of Scots has been put in danger.
 >
 > Now, these European elections are Scotland’s chance to make our voice heard. To send a message that we will not accept a Brexit process that silences Scotland, treats our Parliament and Government with contempt and fails to represent the interests of people in Scotland. Scotland’s future belongs in Europe.
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Brexit policies of UK political parties in EU Elections 2019</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jamesmead.org/" property="cc:attributionName" rel="cc:attributionURL">James Mead</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
