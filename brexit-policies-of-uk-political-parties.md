@@ -1,5 +1,6 @@
 ---
 title: Brexit policies of UK political parties
+layout: page
 ---
 
 I've included the most succinct summary of each party's Brexit policy I could find on their website.
