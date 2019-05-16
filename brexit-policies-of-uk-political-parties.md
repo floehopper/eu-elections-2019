@@ -6,7 +6,7 @@ layout: page
 I've included the most succinct summary of each party's Brexit policy I could find on their website.
 
 * _Incomplete - not all parties yet added - sorry!_
-* _[Pull requests welcome](https://github.com/floehopper/eu-elections-2019/)_
+* _[Raise an issue](https://github.com/floehopper/eu-elections-2019/issues) or [contribute](https://github.com/floehopper/eu-elections-2019/pulls)_
 * _Parties listed in alphabetical order_
 * _Last updated: 15 May 2019_
 
